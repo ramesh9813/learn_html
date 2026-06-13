@@ -1,7 +1,0 @@
-1. structure first  (inline , block component)
-2. define head elements and corresponding effect
-3. how to connect the css
-4. create github account
-5. how to connect the js
-5. how to run the server
-7. introduction to git
